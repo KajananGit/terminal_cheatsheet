@@ -1,8 +1,10 @@
 ## Terminal Cheatsheet
 
-#### **List of Common Commands:**
+#### **List of Common Terminal Commands:**
+
 
 Command: `ls`
+
 *Used to list all the contents of the current directory.*
 
 
@@ -12,6 +14,7 @@ Example: `~ cd Documents/` *will take us/change to the Documents directory.*
 
 
 Command: `cd ..`
+
 *This command will take us to a upper level/previous directory.*
 
 
@@ -66,6 +69,7 @@ Command: `clear`
 
 Command: `pwd`
 *Stands for Print Working Directory. It is used to check current working directory.*
+
 
 
 ***Kajanan Lingkeswaran***
