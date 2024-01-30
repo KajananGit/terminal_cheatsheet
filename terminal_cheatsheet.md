@@ -105,4 +105,52 @@ Example: `sudo rm -R` *will execute the specified command without questioning th
 
 
 
+# Git & GitHub Cheatsheet 💾 🔥
+
+### **List of Common Git & GitHub Commands:** 
+
+
+#### 1. Command: `git init`
+
+*Initialises the current directory into a local repository.*
+
+
+
+#### 2. Command: `gst` or `git status`
+
+*Used to check the status of the local repository.*
+
+
+
+#### 3. Command: `git add`
+
+*Stages/adds the the files with changes.*
+
+
+#### 4. Command: `git commit -m`
+
+*Commits the changes that were made to a file followed by a message that usually describes the chnages.*
+
+
+#### 5. Command: `git log`
+
+*Used to check the history of changes that were commited.*
+
+
+
+#### 6. Command: `git revert`
+
+*Allows us to revert back to a previous version of a file.*
+
+Example: `git revert er24rkjvsfdv98fve` *reverts a file back to the specified version.*
+
+
+#### 7. Command: `git push origin`
+
+*Pushes the all the chnaged/files that were commited to the remote repository that was created on GitHub.*
+
+
+
+
+
 ***Kajanan Lingkeswaran***
